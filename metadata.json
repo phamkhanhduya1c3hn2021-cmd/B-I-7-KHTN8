@@ -1,0 +1,6 @@
+{
+  "name": "Mô phỏng Động học Phản ứng — KHTN 8",
+  "description": "Phòng thí nghiệm mô phỏng tốc độ phản ứng hóa học và chất xúc tác theo mô hình Johnstone (Vĩ mô - Vi mô - Biểu tượng), hỗ trợ đồ thị thời gian thực và xuất HTML5/CSS3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
